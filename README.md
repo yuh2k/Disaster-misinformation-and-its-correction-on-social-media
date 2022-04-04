@@ -1,3 +1,6 @@
+#Twitter Social Network Analysis of Hurricane Sandy
+
+
 ## Introduction to the research
 
 This research conducts a case study of rumors about the New York Stock Exchange flooding and its corrections on Twitter during Hurricane Sandy.
