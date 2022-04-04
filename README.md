@@ -32,9 +32,8 @@ allowfullscreen="true"
 height=600
 width=800> 
 </iframe>
+
 Misinformation transmission network
-
-
 
 
 <iframe 
@@ -47,4 +46,5 @@ allowfullscreen="true"
 height=600
 width=800> 
 </iframe>
+
 Correction information transmission network
