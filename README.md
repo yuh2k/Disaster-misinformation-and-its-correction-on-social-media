@@ -1,4 +1,4 @@
-#Twitter Social Network Analysis of Hurricane Sandy
+# Twitter SNA of Hurricane Sandy
 
 
 ## Introduction to the research
