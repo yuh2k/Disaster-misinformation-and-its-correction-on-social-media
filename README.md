@@ -6,16 +6,18 @@ This research conducts a case study of rumors about the New York Stock Exchange 
 
 
 
+
+
 ## Visualizations for information dissemination networks
 
 
 <iframe width="800" height="600" src="https://yuh2k.github.io/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/Misinformation%20Network/ " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Misinformation dissemination network
+######                                                                                                                                                   Misinformation dissemination network
 
 <iframe width="800" height="600" src="https://yuh2k.github.io/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/Correction%20Network/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Correction Information dissemination network
+######                                                                                                                                                  Correction Information dissemination network
 
 ##  
 Variations in transmission networks by time
@@ -33,7 +35,6 @@ height=600
 width=800> 
 </iframe>
 
-Misinformation transmission network
 
 
 <iframe 
@@ -46,5 +47,3 @@ allowfullscreen="true"
 height=600
 width=800> 
 </iframe>
-
-Correction information transmission network
