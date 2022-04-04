@@ -27,26 +27,8 @@ Variations in transmission networks by time
 
 
 
-<iframe 
-src="https://www.youtube.com/watch?v=Pa_hXfgaumM" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600
-width=800> 
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pa_hXfgaumM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
+<center>Misinformation transmission network</center>
 
-
-
-<iframe 
-src="https://www.youtube.com/watch?v=z0NFjOD0tSU" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600
-width=800> 
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z0NFjOD0tSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>Correction information transmission network</center>
