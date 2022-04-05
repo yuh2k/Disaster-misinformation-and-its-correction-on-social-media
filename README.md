@@ -1,6 +1,3 @@
-# Twitter SNA of Hurricane Sandy
-
-
 ## Introduction to the research
 
 This research conducts a case study of rumors about the New York Stock Exchange flooding and its corrections on Twitter during Hurricane Sandy.
@@ -13,11 +10,11 @@ This research conducts a case study of rumors about the New York Stock Exchange 
 
 ## Visualizations for information dissemination networks
 
-<iframe width="600" height="450" src="https://yuh2k.github.io/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/Misinformation%20Network/ " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="600" src="https://yuh2k.github.io/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/Misinformation%20Network/ " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <center>Visualization of information's dissemination</center>
 
-<iframe width="600" height="450" src="https://yuh2k.github.io/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/Correction%20Network/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="600" src="https://yuh2k.github.io/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/Correction%20Network/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                                                                                                             
 
 <center>Visualization of correction information's dissemination</center>
