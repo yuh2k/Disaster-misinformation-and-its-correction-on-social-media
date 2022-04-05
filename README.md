@@ -33,3 +33,11 @@ This research conducts a case study of rumors about the New York Stock Exchange 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z0NFjOD0tSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center>Correction information transmission network</center>
+
+
+
+## Word cloud
+
+![image](https://github.com/yuh2k/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/blob/main/pics/cloud1.jpg)
+
+![image](https://github.com/yuh2k/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/blob/main/pics/cloud2.jpg)
