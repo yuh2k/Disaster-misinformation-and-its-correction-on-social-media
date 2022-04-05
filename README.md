@@ -36,7 +36,7 @@ This research conducts a case study of rumors about the New York Stock Exchange 
 
 
 
-## Word cloud
+## Word clouds
 
 ![image](https://github.com/yuh2k/Twitter-Social-Network-Analysis-of-Hurricane-Sandy-/blob/main/pics/cloud1.jpg)
 
