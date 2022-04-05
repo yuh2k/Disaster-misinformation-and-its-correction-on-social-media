@@ -25,10 +25,10 @@ This research conducts a case study of rumors about the New York Stock Exchange 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pa_hXfgaumM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Pa_hXfgaumM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center>Misinformation transmission network</center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z0NFjOD0tSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/z0NFjOD0tSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center>Correction information transmission network</center>
 
 
