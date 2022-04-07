@@ -10,6 +10,7 @@
 </div>
 
 
+
 Sandy was formed 500 kilometers southwest of Kingston, Jamaica, on October 22, 2012, at 12:00 am UTC. It grew in size and re-intensified as it moved northeast along the US coast, reaching maximum wind speeds of 85 knots at 12:00 am UTC on October 29, roughly 350 kilometers southeast of Atlantic City. Sandy deteriorated to a post-tropical storm the next day and made landfall near Brigantine, New Jersey, at 23:30 UTC on October 29. The wind reached 70 knots at landfall, while the storm surge peaked up to 3.85 meters along with the New Jersey and New York coasts. The storm surge caused the majority of the damage to homes, with up to 650,000 homes damaged. In some areas, power outages persisted for weeks, affecting almost 8.5 million people.
 
 
@@ -18,12 +19,14 @@ Sandy was formed 500 kilometers southwest of Kingston, Jamaica, on October 22, 2
 </div>
 
 
+
 The flooding rumor about the New York Stock Exchange (NYSE), which claimed that the trading floor was inundated with more than 3 feet of water, is spread widely on Twitter. The rumor made its way to CNN, where meteorologist Chad Myers announced that the NYSE was under 3 feet of water, citing the National Weather Service as a source.
 
 
 <div align=center>
 <img src="https://i.imgur.com/MriJs5E.png" />
 </div>
+
 
 <center>Spatial distribution of rumor tweets and correction tweets</center>
 
@@ -69,6 +72,7 @@ Below figure shows that the dissemination rate of misinformation and corrections
 
 
 
+
 <center>Twitter activity before and after the time of hurricane landfall (00:00 UTC on 30 October 2012)</center>
 
 
@@ -88,6 +92,8 @@ These two videos demonstrate how two dissemination networks grew by time. An ove
 
 
 
+
+
 ## Sentiment Analysis of Tweets
 
 
@@ -97,6 +103,7 @@ These two videos demonstrate how two dissemination networks grew by time. An ove
 <div align=center>
 <img src="https://i.imgur.com/74sVLXe.png" />
 </div>
+
 
 
 
