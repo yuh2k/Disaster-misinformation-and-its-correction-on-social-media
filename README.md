@@ -2,7 +2,7 @@
 
 
 
-> "Hurricane Sandy will always be remembered for its devastating affects through several states across the northeastern United States. "
+> Hurricane Sandy will always be remembered for its devastating affects through several states across the northeastern United States. 
 
 
 <div align=center>
