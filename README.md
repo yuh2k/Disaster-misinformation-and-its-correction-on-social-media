@@ -137,7 +137,7 @@ We further visualized the sentiment contagion network to understand how influent
 
 #### Word clouds
 
-We also extracted the frequency of the keywords that appeared most in each community to generate word clouds.
+We also extracted the frequency of the keywords that appeared most in TOP 10 influential community to generate word clouds. We could notice that different communities produce different distribution of keywords.
 
 
 
