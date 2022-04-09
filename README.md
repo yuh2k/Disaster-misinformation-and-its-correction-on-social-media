@@ -147,7 +147,7 @@ We also extracted the frequency of the keywords that appeared most in TOP 10 inf
 
 
 
-<center>Figure a to Figure b are corresponding to Community 1 to Community 10 in misinformation dissemination network</center>
+<center>Figure a to Figure j are corresponding to Community 1 to Community 10 in misinformation dissemination network</center>
 
 
 
@@ -155,4 +155,4 @@ We also extracted the frequency of the keywords that appeared most in TOP 10 inf
 <img src="https://i.imgur.com/5FboM13.png"/>
 </div>
 
-<center>Figure a to Figure b are corresponding to Community 1 to Community 10 in correction dissemination network</center>
+<center>Figure a to Figure j are corresponding to Community 1 to Community 10 in correction dissemination network</center>
