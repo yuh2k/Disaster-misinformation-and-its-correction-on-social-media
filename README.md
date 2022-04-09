@@ -127,7 +127,7 @@ In our analysis, we applied different sentiment measurements to gauge the sentim
 
 <center>Sentiment score, number of tweets, and the distance to hurricane landfall location</center>
 
-We further visualized the sentiment contagion network to understand how influential users’ sentiments spread through the rumor network and the correction network, respectively. First, for the rumor network (Figure 7A and B), it is quite consistent that individuals in the same community often hold the same attitude toward the rumor. Moreover, most of the communities in the rumor network are expressing neutral sentiments since the rumor itself is a neutral statement. Surprisingly, some communities exhibit positive sentiments while the rumor could cause serious consequences. 
+We further visualized the sentiment contagion network to understand how influential users’ sentiments spread through the rumor network and the correction network, respectively. First, for the rumor network, it is quite consistent that individuals in the same community often hold the same attitude toward the rumor. Moreover, most of the communities in the rumor network are expressing neutral sentiments since the rumor itself is a neutral statement. Surprisingly, some communities exhibit positive sentiments while the rumor could cause serious consequences. 
 
 <div align=center>
 <img src="https://i.imgur.com/fT5fEEI.png" />
